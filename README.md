@@ -47,7 +47,7 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 
 ## Sponsors ❤️
 
-[Become a Sponsor](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605140) [1M+ view] — your logo here and get listed on [getdesign.md](https://getdesign.md/)
+Become a Sponsor [1M+ view] — your logo here and get listed on [getdesign.md](https://getdesign.md/)
 
 ## Collection
 
